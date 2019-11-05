@@ -1,4 +1,4 @@
 [submodule "caffe-fast-rcnn"]
 	path = caffe-fast-rcnn
 	url = https://github.com/cmusatyalab/caffe-fast-rcnn
-	branch = python3
+	branch = master
